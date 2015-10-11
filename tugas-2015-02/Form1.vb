@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿Public Class Form1
     Dim a As Integer
     Dim cek As Byte
@@ -124,3 +125,8 @@
         Me.a = 0
     End Sub
 End Class
+=======
+﻿Public Class Form1
+
+End Class
+>>>>>>> origin/master
