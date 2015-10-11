@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Saya yang mempunyai identitas di bawah ini,
 NIM   : 1431140134
 Nama  : ACHMAD FARIS SUBAGYO
@@ -22,3 +23,16 @@ mengerjakan tugas ini dengan jujur sesuai kontrak perkuliahan yang telah
 disepakati, apabila saya melakukan kecurangan semoga ilmu saya tidak bermanfaat
 >>>>>>> origin/master
 dan dengan rela menerima sanksi.
+=======
+Saya yang mempunyai identitas di bawah ini,
+NIM   : 1431140134
+Nama  : ACHMAD FARIS SUBAGYO
+Kelas : 2D-MI
+
+Dengan ini menyatakan:
+
+Demi Allah (disesuaikan dengan agama dan kepercayaan masing-masing) saya
+mengerjakan tugas ini dengan jujur sesuai kontrak perkuliahan yang telah
+disepakati, apabila saya melakukan kecurangan semoga ilmu saya tidak bermanfaat
+dan dengan rela menerima sanksi.
+>>>>>>> origin/master
